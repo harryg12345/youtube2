@@ -1,0 +1,24 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+body
+{
+background-size: cover;
+}
+.link
+{
+    color:green;
+}
+.img
+{
+    float: right;
+    width: 10%;
+}
+.cake
+{
+    width: 30%;
+}
+
